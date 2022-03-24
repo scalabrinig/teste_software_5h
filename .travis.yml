@@ -1,0 +1,4 @@
+
+# Linguagem e JDK
+language: java
+jdk: oraclejdk16
