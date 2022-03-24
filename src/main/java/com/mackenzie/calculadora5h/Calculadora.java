@@ -12,7 +12,7 @@ package com.mackenzie.calculadora5h;
 public class Calculadora {
     
     public double somar(double numA, double numB) {
-        return numA + numB;
+        return numA - numB;
     }
     
     public double subtrair(double numA, double numB) {
